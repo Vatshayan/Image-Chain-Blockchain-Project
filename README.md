@@ -1,5 +1,6 @@
-# Image-Chain-Blockchain-
-This Project is application of Blockchain on ImageChain
+# Image-Chain-Blockchain
+
+This Project is about application of Blockchain on ImageChain
 
 
 Research Paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7796195/
