@@ -45,3 +45,6 @@ At present, medical images account for nearly 70% of medical diagnostic data, wh
 Decentralized autonomous imaging data processing using blockchain
 
 Imaging studies are one of the leading drivers of modern medical decision making, and thus, their accessibility to healthcare providers and patients is of critical importance. However, current techniques for storage and transferring medical imaging data are inconvenient and sometimes wholly inadequate. In this paper, we propose a decentralized autonomous medical image processing approach using blockchain technology. Blockchain will enable the sharing of key relevant data using a distributed, decentralized, shared ledger that is available to participants. We outline a framework that utilizes blockchain to enable users to access imaging data in a secure and autonomous manner. A user case is experimentally investigated to validate our proposed approach.
+
+
+## Contact : vatshayan007@gmail for Project Documents and Code.
