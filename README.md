@@ -2,6 +2,7 @@
 
 This Project is about application of Blockchain on ImageChain
 
+Synopsis : [LINK](https://docs.google.com/document/d/1Y584J7HkWkzzeIg7YXGg5b8bS5kTOO-lUHCrXBiuFUA/edit?usp=sharing)
 
 Research Paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7796195/
 
