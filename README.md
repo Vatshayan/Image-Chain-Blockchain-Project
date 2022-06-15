@@ -67,4 +67,3 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ### 1000 Computer Science Project List : https://www.computer-science-project.in/
 
-### Youtube Implementation of project : https://youtu.be/tLormT06XS0
