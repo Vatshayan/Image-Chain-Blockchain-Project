@@ -51,7 +51,6 @@ Imaging studies are one of the leading drivers of modern medical decision making
 
 
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-**You Can use this Beautiful Project for your college Project and get good marks too.**
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
  
