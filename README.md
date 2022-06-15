@@ -48,4 +48,24 @@ Decentralized autonomous imaging data processing using blockchain
 Imaging studies are one of the leading drivers of modern medical decision making, and thus, their accessibility to healthcare providers and patients is of critical importance. However, current techniques for storage and transferring medical imaging data are inconvenient and sometimes wholly inadequate. In this paper, we propose a decentralized autonomous medical image processing approach using blockchain technology. Blockchain will enable the sharing of key relevant data using a distributed, decentralized, shared ledger that is available to participants. We outline a framework that utilizes blockchain to enable users to access imaging data in a secure and autonomous manner. A user case is experimentally investigated to validate our proposed approach.
 
 
-## Contact : vatshayan007@gmail for Project Documents and Code.
+
+<h3 align="center">Hi there😄</h3>
+
+**You Can use this Beautiful Project for your college Project and get good marks too.**
+
+Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+ 
+### HOW TO RUN THE PROJECT-
+⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
+
+## How to Reach me :
+
+### 💬 Mail : vatshayan007@gmail.com 
+
+### 💬 WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Website : https://www.cse-projects.com/
+
+### 1000 Computer Science Project List : https://www.computer-science-project.in/
+
+### Youtube Implementation of project : https://youtu.be/tLormT06XS0
