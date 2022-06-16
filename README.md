@@ -4,6 +4,8 @@ This Project is about application of Blockchain on ImageChain
 
 ## Synopsis : [LINK](https://docs.google.com/document/d/1Y584J7HkWkzzeIg7YXGg5b8bS5kTOO-lUHCrXBiuFUA/edit?usp=sharing)
 
+### Youtube Video Explanation : https://youtu.be/SICctF3MzKU
+
 Research Paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7796195/
 
 Abstract : 
@@ -66,4 +68,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 ### Website : https://www.cse-projects.com/
 
 ### 1000 Computer Science Project List : https://www.computer-science-project.in/
+
+### Project Video Explanation : https://youtu.be/SICctF3MzKU
 
